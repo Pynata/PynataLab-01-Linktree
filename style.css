@@ -87,7 +87,7 @@ footer {
 .card:hover {
     color: white;
     width: 250px;
-    background-image: linear-gradient(90deg, #2C2F33, #7289DA 50%, #e9e9e9);
+    background-image: linear-gradient(90deg, #7FACD6, #BfB8DA 50%, #E9E9E9);
 }
 
 
