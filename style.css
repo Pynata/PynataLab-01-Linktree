@@ -31,7 +31,7 @@ a {
 }
 
 footer {
-    background-color: #C71585;
+    background-color: black;
     color: white;
     width: 100%;
     height: 32.5px;
@@ -87,20 +87,11 @@ footer {
 .card:hover {
     color: white;
     width: 250px;
-}
-
-#discord:hover {
     background-image: linear-gradient(90deg, #2C2F33, #7289DA 50%, #e9e9e9);
 }
 
-#linkedin:hover {
-    background-image: linear-gradient(270deg, #313335, #0077b5 70%, #CACCCE);
-}
 
-#website:hover {
-    background-image: linear-gradient(90deg, #880085, #5B3B8C, #7c9ec3);
-}
-
-.fab {
+.fab,
+.fas {
     margin-right: 7px;
 }
